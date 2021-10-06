@@ -1,0 +1,7 @@
+add trader1 100
+import trader1 DEF 10
+export trader1 DEF -1
+export trader1 DEF 0
+export trader1 DEF 11
+export trader2 ABC 10
+exit

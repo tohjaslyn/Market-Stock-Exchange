@@ -1,0 +1,13 @@
+ADD trader1 0
+IMPORT trader1 NFL 10
+ADD trader2 0  
+TRADERS
+SELL trader1 NFL 10 1
+BUY trader2 NFL 10 2.5
+EXPORT trader2 NFL 5 
+BALANCE trader1
+BALANCE trader2
+TRADES
+SAVE traders trades
+BINARY traders.bin trades.bin
+EXIT

@@ -1,0 +1,19 @@
+$ Success.
+$ Success.
+$ Success.
+$ Success.
+$ Success.
+$ Trader now has 100.00 units of ABC.
+$ No trades could be made, order added to buy book.
+$ No trades could be made, order added to buy book.
+$ No trades could be made, order added to buy book.
+$ No trades could be made, order added to buy book.
+$ Product sold in part, trades as follows:
+trader1->trader3: 5.00xABC for $10.00.
+trader1->trader2: 10.00xABC for $7.50.
+trader1->trader5: 20.00xABC for $7.50.
+$ 0002: BUY 15.00xABC @ $5.00
+$ 0004: SELL 65.00xABC @ $6.50
+$ ABC
+$ Trader has an empty inventory.
+$ Have a nice day.

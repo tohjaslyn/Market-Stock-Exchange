@@ -1,0 +1,4 @@
+add trader1 100
+inventory trader1
+inventory trader2
+exit

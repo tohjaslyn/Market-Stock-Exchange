@@ -1,0 +1,5 @@
+add trader1 100
+import trader1 ABC 10
+sell trader1 ABC 10 1.0
+cancel sell 0000
+exit

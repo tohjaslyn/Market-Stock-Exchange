@@ -1,0 +1,14 @@
+add trader1 100
+add trader2 100
+import trader2 ABC 10
+sell trader2 ABC 10 2
+sell trader2 ABC 5 2.50
+buy trader1 ABC 10 3
+import trader2 DEF 10
+buy trader1 DEF 10 3
+sell trader2 DEF 10 2
+sell trader2 DEF 5 2.50
+import trader2 GHI 20
+sell trader2 GHI 12 2
+buy trader1 GHI 10 3
+exit

@@ -1,0 +1,16 @@
+add trader1 100
+add trader2 100
+add trader3 100
+add trader4 100
+add trader5 100
+import trader1 ABC 100
+buy trader2 ABC 10 7.5
+buy trader3 ABC 5 10
+buy trader4 ABC 15 5
+buy trader5 ABC 20 7.5 
+sell trader1 ABC 100 6.5
+book buy
+book sell
+inventory trader2
+inventory trader1
+exit

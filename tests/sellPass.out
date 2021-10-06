@@ -1,0 +1,26 @@
+$ Success.
+$ Trader now has 10.00 units of ABC.
+$ Success.
+$ No trades could be made, order added to buy book.
+$ Product sold in entirety, trades as follows:
+trader1->trader2: 10.00xABC for $6.00.
+$ Trader now has 10.00 units of ABC.
+$ No trades could be made, order added to buy book.
+$ No trades could be made, order added to buy book.
+$ Product sold in part, trades as follows:
+trader1->trader2: 3.00xABC for $6.00.
+trader1->trader2: 3.00xABC for $5.50.
+$ Trader now has 20.00 units of DEF.
+$ No trades could be made, order added to buy book.
+$ No trades could be made, order added to buy book.
+$ Product sold in entirety, trades as follows:
+trader1->trader2: 3.00xDEF for $6.50.
+trader1->trader2: 7.00xDEF for $6.00.
+$ No trades could be made, order added to sell book.
+$ Trader now has 20.00 units of GHI.
+$ No trades could be made, order added to buy book.
+$ No trades could be made, order added to buy book.
+$ Product sold in entirety, trades as follows:
+trader1->trader2: 3.00xGHI for $6.50.
+trader1->trader2: 6.00xGHI for $6.00.
+$ Have a nice day.

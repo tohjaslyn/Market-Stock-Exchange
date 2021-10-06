@@ -1,0 +1,17 @@
+$ Success.
+$ Success.
+$ Trader now has 10.00 units of ABC.
+$ No trades could be made, order added to sell book.
+$ Order could not be placed onto the market.
+$ Product bought in entirety, trades as follows:
+trader2->trader1: 10.00xABC for $2.00.
+$ Trader now has 10.00 units of DEF.
+$ No trades could be made, order added to buy book.
+$ Product sold in entirety, trades as follows:
+trader2->trader1: 10.00xDEF for $3.00.
+$ Order could not be placed onto the market.
+$ Trader now has 20.00 units of GHI.
+$ No trades could be made, order added to sell book.
+$ Product bought in entirety, trades as follows:
+trader2->trader1: 10.00xGHI for $2.00.
+$ Have a nice day.

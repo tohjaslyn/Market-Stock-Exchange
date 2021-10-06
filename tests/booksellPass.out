@@ -1,0 +1,8 @@
+$ Success.
+$ Success.
+$ Trader now has 10.00 units of ABC.
+$ No trades could be made, order added to sell book.
+$ No trades could be made, order added to sell book.
+$ 0001: SELL 5.00xABC @ $2.00
+0002: SELL 5.00xABC @ $2.50
+$ Have a nice day.

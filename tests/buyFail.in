@@ -1,0 +1,4 @@
+buy trader1 ABC 10 3
+add trader1 100
+buy trader1 ABC 0 0
+exit

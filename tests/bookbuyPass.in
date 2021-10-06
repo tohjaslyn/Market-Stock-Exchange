@@ -1,0 +1,5 @@
+add trader1 100
+buy trader1 ABC 5 2
+buy trader1 ABC 5 2.50
+book buy
+exit

@@ -1,0 +1,15 @@
+$ Success.
+$ Trader now has 10.00 units of NFL.
+$ Success.
+$ trader1
+trader2
+$ No trades could be made, order added to sell book.
+$ Product bought in entirety, trades as follows:
+trader1->trader2: 10.00xNFL for $1.00.
+$ Trader now has 5.00 units of NFL.
+$ $10.00
+$ $-10.00
+$ trader1->trader2: 10.00xNFL for $1.00.
+$ Success.
+$ Success.
+$ Have a nice day.

@@ -1,0 +1,7 @@
+add trader1 100
+add trader2 100
+import trader2 ABC 10
+sell trader2 ABC 5 2
+sell trader2 ABC 5 2.50
+book sell
+exit

@@ -1,0 +1,4 @@
+add trader1 100
+trades trader trader1 
+trades trader trader5
+exit
